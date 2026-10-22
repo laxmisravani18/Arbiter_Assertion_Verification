@@ -1,0 +1,4 @@
+t=150000 SCOREBOARD MISMATCH gnt=10 exp=01
+[155000] %Error: arbiter_sva.sv:27: Assertion failed in tb_arbiter.dut.sva_i.A4_fair0: A4 FAIL: gnt0 repeated on tie
+%Error: sva/arbiter_sva.sv:27: Verilog $stop
+Aborting...

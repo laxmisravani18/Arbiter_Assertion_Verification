@@ -1,0 +1,4 @@
+t=10000 SCOREBOARD MISMATCH gnt=10 exp=00
+[15000] %Error: arbiter_sva.sv:33: Assertion failed in tb_arbiter.dut.sva_i.A5_reset: A5 FAIL: grant during/after reset
+%Error: sva/arbiter_sva.sv:33: Verilog $stop
+Aborting...

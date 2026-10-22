@@ -1,0 +1,4 @@
+t=40000 SCOREBOARD MISMATCH gnt=01 exp=00
+[45000] %Error: arbiter_sva.sv:17: Assertion failed in tb_arbiter.dut.sva_i.A2_no_spur1: A2 FAIL: gnt1 without req1
+%Error: sva/arbiter_sva.sv:17: Verilog $stop
+Aborting...
